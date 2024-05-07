@@ -10,15 +10,18 @@ function App() {
         </p>
       </header>
       <main>
-        <body>
-          <h1>Home Page</h1>
-          <div>
-            <h2>Content here</h2>
-            <p>This is where there will be content</p>
-            <strong>Work in Progress</strong>
-          </div>
-        </body>
+        <h1>Home Page</h1>
+        <div>
+          <h2>Content here</h2>
+          <p>This is where there will be content</p>
+          <strong>Work in Progress</strong>
+        </div>
       </main>
+      <footer>
+        <div>
+          Footer Content
+        </div>
+      </footer>
     </div>
   );
 }
